@@ -12,5 +12,6 @@ package esempiogit;
 public class Esempio {
     public static void main (String args[]){
         System.out.println("Salve mondo!");
+        System.out.println("Ciao");
     }
 }
